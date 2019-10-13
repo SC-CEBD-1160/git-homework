@@ -3,7 +3,8 @@ Editing the README file
 
 # This is my README file
 ## H2 tag
-**some italic text**
+
+**bold text**
 
 * list 1
 * list 2
